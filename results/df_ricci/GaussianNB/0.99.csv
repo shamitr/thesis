@@ -1,0 +1,13 @@
+,unpriv,priv,SUM
+TP,27.0,147.0,174.0
+TN,147.0,27.0,174.0
+FP,63.0,63.0,126.0
+FN,63.0,63.0,126.0
+size,300.0,300.0,600.0
+accuracy_equality,0.58,0.58,1.16
+opportunity_equality,0.3,0.7,1.0
+predictive_equality,0.3,0.7,1.0
+statistical_parity,0.3,0.7,1.0
+predictive_parity,0.3,0.7,1.0
+neg_predictive_parity,0.7,0.3,1.0
+treatment equality,0.4285714285714286,2.3333333333333335,2.761904761904762
